@@ -1,2 +1,12 @@
-# SIN-LIMITES-2026
-Proyecto base para mi aplicación Sin Limites 2026
+HTLM
+
+<html>
+  <head>
+    <title>Mi App Sin Límites</title>
+  </head>
+  <body>
+    <h1>Bienvenido al Panel de Control</h1>
+    <p>Esta es la base de mi aplicación para el año 2026.</p>
+    <button>Presiona aquí para empezar</button>
+  </body>
+</html>
